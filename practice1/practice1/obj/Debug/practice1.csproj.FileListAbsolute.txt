@@ -1,0 +1,16 @@
+D:\practice1\practice1\bin\Debug\practice1.exe.config
+D:\practice1\practice1\bin\Debug\practice1.exe
+D:\practice1\practice1\bin\Debug\practice1.pdb
+D:\practice1\practice1\bin\Debug\EntityFramework.dll
+D:\practice1\practice1\bin\Debug\EntityFramework.SqlServer.dll
+D:\practice1\practice1\bin\Debug\EntityFramework.xml
+D:\practice1\practice1\bin\Debug\EntityFramework.SqlServer.xml
+D:\practice1\practice1\obj\Debug\practice1.csprojAssemblyReference.cache
+D:\practice1\practice1\obj\Debug\practice1.Form1.resources
+D:\practice1\practice1\obj\Debug\practice1.Properties.Resources.resources
+D:\practice1\practice1\obj\Debug\practice1.csproj.GenerateResource.cache
+D:\practice1\practice1\obj\Debug\practice1.csproj.CoreCompileInputs.cache
+D:\practice1\practice1\obj\Debug\practice1.csproj.CopyComplete
+D:\practice1\practice1\obj\Debug\practice1.exe
+D:\practice1\practice1\obj\Debug\practice1.pdb
+D:\practice1\practice1\bin\Debug\EntityFrameworkPaginate.dll

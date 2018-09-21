@@ -1,0 +1,15 @@
+C:\Users\er_ra\OneDrive\DotNet-Technology\Entity Framework\EFCURD\EFCURD\bin\Debug\EFCURD.exe.config
+C:\Users\er_ra\OneDrive\DotNet-Technology\Entity Framework\EFCURD\EFCURD\bin\Debug\EFCURD.exe
+C:\Users\er_ra\OneDrive\DotNet-Technology\Entity Framework\EFCURD\EFCURD\bin\Debug\EFCURD.pdb
+C:\Users\er_ra\OneDrive\DotNet-Technology\Entity Framework\EFCURD\EFCURD\bin\Debug\EntityFramework.dll
+C:\Users\er_ra\OneDrive\DotNet-Technology\Entity Framework\EFCURD\EFCURD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\er_ra\OneDrive\DotNet-Technology\Entity Framework\EFCURD\EFCURD\bin\Debug\EntityFramework.xml
+C:\Users\er_ra\OneDrive\DotNet-Technology\Entity Framework\EFCURD\EFCURD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\er_ra\OneDrive\DotNet-Technology\Entity Framework\EFCURD\EFCURD\obj\Debug\EFCURD.csprojAssemblyReference.cache
+C:\Users\er_ra\OneDrive\DotNet-Technology\Entity Framework\EFCURD\EFCURD\obj\Debug\EFCURD.Form1.resources
+C:\Users\er_ra\OneDrive\DotNet-Technology\Entity Framework\EFCURD\EFCURD\obj\Debug\EFCURD.Properties.Resources.resources
+C:\Users\er_ra\OneDrive\DotNet-Technology\Entity Framework\EFCURD\EFCURD\obj\Debug\EFCURD.csproj.GenerateResource.cache
+C:\Users\er_ra\OneDrive\DotNet-Technology\Entity Framework\EFCURD\EFCURD\obj\Debug\EFCURD.csproj.CoreCompileInputs.cache
+C:\Users\er_ra\OneDrive\DotNet-Technology\Entity Framework\EFCURD\EFCURD\obj\Debug\EFCURD.csproj.CopyComplete
+C:\Users\er_ra\OneDrive\DotNet-Technology\Entity Framework\EFCURD\EFCURD\obj\Debug\EFCURD.exe
+C:\Users\er_ra\OneDrive\DotNet-Technology\Entity Framework\EFCURD\EFCURD\obj\Debug\EFCURD.pdb

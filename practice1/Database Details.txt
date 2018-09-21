@@ -1,0 +1,12 @@
+//////MS SQL SERVER//////
+
+
+Database Name :- <MYDATA>
+Server Name :- <"Your server name">
+Table Name :- <Customer>
+
+Column Details :- CustomerID int AutoIncrement
+		  FirstName varchar(50)
+		  Lastname varchar(50)
+		  City varchar(50)
+		  Address varchar(250) 
